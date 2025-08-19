@@ -155,5 +155,5 @@ EMAIL_USE_TLS = True
 # EMAIL_HOST = 'smtp.office365.com'
 # EMAIL_PORT = 587
 # EMAIL_HOST_USER = 'rajputanuragsingh77@outlook.com'
-# EMAIL_HOST_PASSWORD = 'Anurag#@!123'
+# EMAIL_HOST_PASSWORD
 # EMAIL_USE_TLS = True
